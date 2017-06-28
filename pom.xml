@@ -3,11 +3,11 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>com.learn.storm_kafka_hdfs</groupId>
-  <artifactId>storm_kakfa_hdfs</artifactId>
+  <artifactId>storm_kafka_hdfs</artifactId>
   <version>1.0-SNAPSHOT</version>
   <packaging>jar</packaging>
 
-  <name>storm_kakfa_hdfs</name>
+  <name>storm_kafka_hdfs</name>
   <url>http://maven.apache.org</url>
 
   <properties>
